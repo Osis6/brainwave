@@ -1,3 +1,5 @@
+/** @format */
+
 import {
   benefitIcon1,
   benefitIcon2,

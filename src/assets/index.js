@@ -1,3 +1,5 @@
+/** @format */
+
 import brainwave from "./brainwave.svg";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
@@ -8,7 +10,7 @@ import smallSphere from "./4-small.png";
 import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
-import yourlogo from "./yourlogo.svg";
+import OBlogo from "./yourlogo.svg";
 import homeSmile from "./home-smile.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -86,7 +88,7 @@ export {
   gradient,
   smallSphere,
   grid,
-  yourlogo,
+  OBlogo,
   homeSmile,
   file02,
   searchMd,

@@ -36,6 +36,8 @@ import {
   telegram,
   twitter,
   OBlogo,
+  OBlogo1,
+  OBlogo2,
 } from "../assets";
 
 export const navigation = [
@@ -77,7 +79,7 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [OBlogo, OBlogo, OBlogo, OBlogo, OBlogo];
+export const companyLogos = [OBlogo1, OBlogo, OBlogo2];
 
 export const brainwaveServices = [
   "Photo generating",
@@ -280,16 +282,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Enhance productivity",
+    text: "Boosts productivity by efficiently handling tasks and providing valuable insights.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Personalized assistance",
+    text: "Tailors responses to user preferences, offering a customized and engaging interaction.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,

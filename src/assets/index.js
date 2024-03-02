@@ -1,6 +1,6 @@
 /** @format */
 
-import brainwave from "./brainwave.svg";
+import brainwave from "./brainwave.webp";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
@@ -11,6 +11,8 @@ import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
 import OBlogo from "./yourlogo.svg";
+import OBlogo1 from "./gym.svg";
+import OBlogo2 from "./meta.svg";
 import homeSmile from "./home-smile.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -89,6 +91,8 @@ export {
   smallSphere,
   grid,
   OBlogo,
+  OBlogo1,
+  OBlogo2,
   homeSmile,
   file02,
   searchMd,

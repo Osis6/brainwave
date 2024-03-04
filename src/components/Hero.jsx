@@ -41,7 +41,7 @@ const Hero = () => {
             Unleash the power of AI within Dataminds. Upgrade your productivity
             with Dataminds, the open AI chat app.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#pricing" white>
             Get started
           </Button>
         </div>

@@ -1,2 +1,2 @@
 # Dataminds
-## AI chat project
+## AI chatbot project

@@ -1,7 +1,5 @@
+# Dataminds.
 
 
- # Dataminds.
-
-
- ## chatbot projet.
+## chatbot projet.
 

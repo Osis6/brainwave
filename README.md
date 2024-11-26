@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Dataminds.
 
 ## chatbot projet.

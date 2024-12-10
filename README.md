@@ -3,6 +3,4 @@
 
 ## chatbot projet.
 
-### IA APP
-
 

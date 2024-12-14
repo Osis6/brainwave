@@ -1,5 +1,3 @@
-
-
 # Dataminds.
 
 ## chatbot projet.
